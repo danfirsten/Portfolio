@@ -1,11 +1,20 @@
-import "./navbar.scss"
+import Sidebar from "../sidebar/Sidebar";
+import "./navbar.scss";
+import { motion } from "framer-motion";
 
 const Navbar = () => {
     return (
         <div className="navbar">
             {/* Sidebar */}
+            <Sidebar/>
             <div className="wrapper">
-                <span>Dan Firstenberg</span>
+                <motion.span
+                initial={{opacity:0, scale:0.5}}
+                animate={{opacity:1, scale:1}}
+                transition={{duration:0.5}}
+                >
+                    Dan Firstenberg
+                </motion.span>
                 <div className="social">
                     <a href="#"><img src="/facebook.png"></img></a>    
                     <a href="#"><img src="/instagram.png"></img></a>    
@@ -17,4 +26,4 @@ const Navbar = () => {
     )
 }
 
-export default Navbar
+export default Navbar;
