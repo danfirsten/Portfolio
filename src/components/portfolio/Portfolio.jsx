@@ -6,16 +6,16 @@ const items = [
   {
     id: 1,
     title: "Online Marketplace",
-    img: "https://images.pexels.com/photos/18073372/pexels-photo-18073372/free-photo-of-young-man-sitting-in-a-car-on-a-night-street.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    img: "/onlinemarketplace.png",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
     github: "https://github.com/danfirsten/Online-Marketplace",
   },
   {
     id: 2,
     title: "Self Driving Car - No Libraries",
-    img: "https://images.pexels.com/photos/18023772/pexels-photo-18023772/free-photo-of-close-up-of-a-person-holding-a-wristwatch.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    img: "/selfdrivingcar.png",
     desc: "This project demonstrates a basic self-driving car simulation built from scratch using JavaScript without any external libraries. The simulation includes car driving mechanics, artificial sensors for environment detection, collision detection, a custom neural network, and a genetic algorithm for evolving the car's driving abilities.",
-    github: "https://github.com/your-username/nextjs-blog",
+    github: "https://github.com/danfirsten/SelfDriving-Car",
   },
   {
     id: 3,
@@ -26,10 +26,10 @@ const items = [
   },
   {
     id: 4,
-    title: "Music App",
-    img: "https://images.pexels.com/photos/18540208/pexels-photo-18540208/free-photo-of-wood-landscape-water-hill.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    title: "Music Social Media App",
+    img: "/musicapp2.png",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
-    github: "https://github.com/your-username/music-app",
+    github: "https://github.com/ListenUp-Dev",
   },
 ];
 
