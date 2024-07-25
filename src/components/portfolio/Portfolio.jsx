@@ -7,7 +7,7 @@ const items = [
     id: 1,
     title: "Online Marketplace",
     img: "/onlinemarketplace.png",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
+    desc: "This project includes user authentication, enabling users to securely register, log in, and manage their accounts. Users can communicate with each other through an integrated messaging system, enhancing the interactive experience. Additionally, each user has access to a personalized dashboard where they can manage their listings, track their transactions, and view their profile information. Form handling and customization are also key aspects, ensuring that the forms are intuitive and meet the needs of the users. This project has been a comprehensive exercise in building a full-featured web application with Django, focusing on both back-end functionality and front-end user experience.",
     github: "https://github.com/danfirsten/Online-Marketplace",
   },
   {
@@ -18,17 +18,10 @@ const items = [
     github: "https://github.com/danfirsten/SelfDriving-Car",
   },
   {
-    id: 3,
-    title: "Vanilla JS App",
-    img: "https://images.pexels.com/photos/6894528/pexels-photo-6894528.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
-    github: "https://github.com/your-username/vanilla-js-app",
-  },
-  {
     id: 4,
-    title: "Music Social Media App",
+    title: "ListenUp: Music Social Media App",
     img: "/musicapp2.png",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
+    desc: "ListenUp is an innovative social media app designed for music enthusiasts who love to share, discover, and engage in musical duels. With ListenUp, users can easily share their favorite tracks, challenge friends to music duels, and explore new music curated by a vibrant community. Whether you're a casual listener or a hardcore music aficionado, ListenUp provides a dynamic platform to connect with others through the universal language of music. Dive into your musical journey with ListenUp!",
     github: "https://github.com/ListenUp-Dev",
   },
 ];
