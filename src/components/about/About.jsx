@@ -61,7 +61,7 @@ const About = () => {
       </motion.div>
       <motion.div className="resumeContainer" variants={variants}>
         <iframe
-          src="/Resume_07_29_24.pdf"
+          src="/Technical_Resume_11_09_24.pdf" 
           title="Resume"
           width="100%"
           height="600px"
